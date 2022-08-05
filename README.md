@@ -1,4 +1,4 @@
-# HaifaLearnerCorpus
+# Haifa Learner Corpus
 A corpus of English essays authored by learners in Haifa, Israel
 
 Learner corpora---datasets that reflect the language of non-native speakers---are instrumental for research of language learning and development, as well as for practical applications, mainly for teaching and education. Such corpora now exist for a plethora of native--foreign language pairs; but until recently, none of them reflected native Hebrew speakers, and very few reflected native Arabic speakers.
